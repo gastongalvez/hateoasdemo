@@ -29,15 +29,9 @@ http://localhost:8080/api/orders/3
 Requisitos para ejecutarlo en otra PC
 
 Paso 1: debe tener instalado **JDK 17** o superior
-   - Verificar versión:  
-     ```bash
-     java -version
-     ```
+
 Paso 2: debe tener instalado **Maven** (se incluye con VS Code o IntelliJ).  
-   - Verificar versión:  
-     ```bash
-     mvn -version
-     ```
+
 Paso 3: Instalar **VS Code**, **IntelliJ** o **NetBeans** (para mi el mas facil es VS Code).  
    - Si usa VS Code, instala estas extensiones:
      - *Extension Pack for Java* (Microsoft)
