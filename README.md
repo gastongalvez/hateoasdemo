@@ -29,7 +29,7 @@ Para usarlo debe clonar el repositorio:
 
 En el Bash debe escribir esto:
 
-git clone https://github.com/TU_USUARIO/hateoasdemo.git
+git clone https://github.com/gaston-galvez/hateoasdemo.git
 
 cd hateoasdemo
 
