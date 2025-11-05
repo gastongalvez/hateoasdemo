@@ -12,8 +12,11 @@ Y si está cancelada, solo deja verla o volver a la lista.
 Los comandos son los siguientes:
 
 http://localhost:8080/api/orders/1
+
 http://localhost:8080/api/orders/2
+
 http://localhost:8080/api/orders/3
+
 
 /1	"status": "Pending"	"pay" y "cancel"
 /2	"status": "Paid"	"track_shipment" y "refund"
