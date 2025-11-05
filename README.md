@@ -19,8 +19,11 @@ http://localhost:8080/api/orders/3
 
 
 /1	"status": "Pending"	"pay" y "cancel"
+
 /2	"status": "Paid"	"track_shipment" y "refund"
+
 /3	"status": "Cancelled"	Solo "self" y "list_all"
+
 
 
 Requisitos para ejecutarlo en otra PC
